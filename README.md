@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi Im Win&fontSize=45&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:89f7fe&height=240&section=header&text=Hi%20I'm%20Win%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Developer%20(.NET%20%2B%20React)&descAlignY=65&descAlign=50"/>
 </p>
-<h3 align="center">🚀 Fullstack Developer (.NET + React) | Backend-Focused</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;ASP.NET+Core+%2B+React;Clean+Architecture;Building+Scalable+Systems&center=true&width=550&height=50">
