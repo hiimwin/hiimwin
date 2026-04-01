@@ -1,20 +1,25 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hiimwin&fontSize=45&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Trung</h1>
-<h3 align="center">🚀 Fullstack Developer (.NET + React)</h3>
+<h3 align="center">🚀 Senior-Oriented Fullstack Developer (.NET + React)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;ASP.NET+Core+%2B+React;Clean+Architecture;Building+Scalable+Apps&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;ASP.NET+Core+%2B+React;Clean+Architecture;Building+Scalable+Systems&center=true&width=550&height=50">
 </p>
 
 ---
 
 ## 🎯 About Me
 
-💻 I am a Fullstack Developer with a strong focus on backend development using .NET.
+💻 Fullstack Developer with strong backend expertise in .NET ecosystem.
 
-* 🔧 Backend: ASP.NET Core, Web API, Entity Framework
-* 🎨 Frontend: React, HTML, CSS, JavaScript
-* 🧠 Interested in: Clean Architecture, Microservices
-* 🚀 Goal: Become a Technical Developer
+* 🔧 Backend: ASP.NET Core, Web API, Entity Framework Core
+* 🎨 Frontend: React, Tailwind, Bootstrap
+* ⚙️ Experience with: Redis, Docker, Jenkins
+* 🧠 Focus: Clean Architecture, Performance Optimization
+* 🎯 Goal: Becoming a Senior Fullstack Developer
 
 ---
 
@@ -29,13 +34,23 @@
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Tools
+### ⚙️ Tools & Others
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins" />
+  <img src="https://img.shields.io/badge/-KendoUI-ff6358?style=for-the-badge&logo=telerik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hiimwin/hiimwin/output/snake-dark.svg" />
 </p>
 
 ---
@@ -46,8 +61,7 @@
 
 * ASP.NET Core Web API + React
 * JWT Authentication + Refresh Token
-* Clean Architecture
-  👉 https://github.com/hiimwin
+* Clean Architecture + Scalable design
 
 ---
 
@@ -55,11 +69,18 @@
 
 * JWT + Role-based Authorization
 * Secure API design
-  👉 https://github.com/hiimwin
+* Token lifecycle management
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ Backend Template
+
+* Clean Architecture template
+* Reusable structure for enterprise apps
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hiimwin&show_icons=true&theme=tokyonight" />
@@ -71,12 +92,6 @@
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiimwin&theme=tokyo-night" />
-
----
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/hiimwin/hiimwin/output/snake.svg" />
 
 ---
 
