@@ -50,7 +50,11 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hiimwin/hiimwin/output/snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiimwin/hiimwin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiimwin/hiimwin/output/github-snake-light.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/hiimwin/hiimwin/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
