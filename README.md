@@ -84,8 +84,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiimwin&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiimwin&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hiimwin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0,0f172a,1e293b&title_color=6366F1&icon_color=6366F1&text_color=cbd5e1" />
 </p>
 
 ---
