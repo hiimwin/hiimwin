@@ -28,19 +28,19 @@
 
 ### 🔙 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,mysql,redis&size=65" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,angular,vue,js,ts,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,redux,angular,vue,js,ts,html,css,tailwind,bootstrap&size=65" />
+  <img src="https://img.shields.io/badge/-KendoUI-ff6358?style=for-the-badge&logo=telerik&logoColor=white"/>
 </p>
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,visualstudio,intellij" />
-  <img src="https://img.shields.io/badge/-KendoUI-ff6358?style=for-the-badge&logo=telerik&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,visualstudio,intellij&size=65" />
 </p>
 
 ---
