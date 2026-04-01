@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hiimwin&fontSize=45&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi Im Win&fontSize=45&fontColor=ffffff"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Trung</h1>
-<h3 align="center">🚀 Senior-Oriented Fullstack Developer (.NET + React)</h3>
+<h3 align="center">🚀 Fullstack Developer (.NET + React) | Backend-Focused</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;ASP.NET+Core+%2B+React;Clean+Architecture;Building+Scalable+Systems&center=true&width=550&height=50">
@@ -18,8 +16,8 @@
 * 🔧 Backend: ASP.NET Core, Web API, Entity Framework Core
 * 🎨 Frontend: React, Tailwind, Bootstrap
 * ⚙️ Experience with: Redis, Docker, Jenkins
-* 🧠 Focus: Clean Architecture, Performance Optimization
-* 🎯 Goal: Becoming a Senior Fullstack Developer
+* 🧠 Focus: Clean Architecture, System Design, Performance Optimization, Scalability, Security, and Maintainable Code
+* 🎯 Goal: Becoming a Senior Technical Fullstack Developer
 
 ---
 
