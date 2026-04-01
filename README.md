@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;ASP.NET+Core+%2B+React;Clean+Architecture;Building+Scalable+Systems&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=40&duration=3000&color=4F46E5&center=true&vCenter=true&width=600&lines=Focused+on+Clean+Architecture;Improving+System+Design+Skills;Building+Maintainable+Systems"/>
 </p>
 
 ---
