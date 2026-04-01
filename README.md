@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=40&duration=3000&color=4F46E5&center=true&vCenter=true&width=600&lines=Focused+on+Clean+Architecture;Improving+System+Design+Skills;Building+Maintainable+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=40&duration=3500&pause=1500&color=6366F1&center=true&vCenter=true&width=600&lines=Focused+on+Clean+Architecture;Improving+System+Design+Skills;Building+Maintainable+Systems"/>
 </p>
 
 ---
